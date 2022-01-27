@@ -20,3 +20,4 @@ Discord: TheEggo#5487
 ## IDEs that i use:
 
 <img style="padding: 1.5px" align="left" alt="Rider" width="35px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"/>
+<img style="padding: 1.5px" align="left" alt="Rider" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/>
