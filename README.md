@@ -12,9 +12,7 @@ I come from germany and do a bunch of osu-stable client modding and run my own o
 ## Platforms you can contact me on:
 
 osu!js-gmail: osujs.game@gmail.com
-
 personal-gmail: theeggo5487@gmail.com
-
 Discord: TheEggo#5487
 
 <br>
