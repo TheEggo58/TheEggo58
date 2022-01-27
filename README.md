@@ -16,3 +16,9 @@ osu!js-gmail: osujs.game@gmail.com
 personal-gmail: theeggo5487@gmail.com
 
 Discord: TheEggo#5487
+
+<br>
+
+## IDEs that i use:
+
+<img style="padding: 1.5px" align="left" alt="Rider" width="35px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"/>
