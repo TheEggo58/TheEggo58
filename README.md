@@ -4,6 +4,8 @@ I come from germany and do a bunch of osu-stable client modding and run my own o
 <br>
 a client with the goal of offering a 2012 osu!-era experience. You may also know me for my other project called "osu!js"
 
+<img src="https://i.imgur.com/f7JxZvY.jpg"/>
+
 ## Languages i work with:
 <img style="padding: 1.5px" align="left" alt="CSharp" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
 <img style="padding: 1.5px" align="left" alt="JS" width="35px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
