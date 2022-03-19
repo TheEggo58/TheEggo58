@@ -18,4 +18,6 @@ You may also know me for my other project called "osu!js"
 ## Platforms you can contact me on:
 
 Discord: TheEggo#5487
+<br>
+osu!: https://osu.ppy.sh/users/14125695
 
