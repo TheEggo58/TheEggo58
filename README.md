@@ -1,4 +1,4 @@
-### Hi there, i'm eggo
+### Hi there, i'm eggo. Thanks for stopping by :)
 
 I come from germany and do a bunch of osu-stable client modding and run my own osu! clone called "eternity", a client with the goal of offering a 2012 osu!-era experience.
 You may also know me for my other project called "osu!js"
