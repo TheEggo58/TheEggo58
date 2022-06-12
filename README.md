@@ -7,7 +7,6 @@ a client with the goal of offering a 2012 osu!-era experience. You may also know
 <s>I also make various osu! clones in scratch, mainly just because i can lol</s>
 
 <img src="https://i.imgur.com/f7JxZvY.jpg"/>
-<br>
 
 ## Languages i work with:
 <img style="padding: 1.5px" align="left" alt="CSharp" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
